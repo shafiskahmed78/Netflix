@@ -13,6 +13,7 @@ and TV shows. Computed correlations and examined actor/director contributions to
 actors and directors associated with successful content.
 
 **Insights and Recommendations**: Netflix should focus on producing high-demand genres in countries with growing audiences. The
-data showed an increasing trend in TV show releases compared to movies, suggesting a shift in viewer preferences. Recommended
+data showed an increasing trend in TV show releases compared to movies, suggesting a shift in viewer preferences.
+ Recommended
 investing in popular genres and strategic release timing to enhance global market reach and subscriber growth.
  
